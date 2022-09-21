@@ -17,11 +17,12 @@ I am a content manager with background in web-design, copywriting. Now I'm learn
 
 I am a competent IT beginner with practical skills in software development. Organized and responsible worker with proven research, analytical and communication skills is seeking a challenging position with a company where it is possible to grow professionally and use obtained knowledge in the best possible way for achieving the company’s goals. I am ready for an internship to grow and further improve my IT skills.
 
-
-
 ## Task from Codewar: 
-function multiply(a, b) {
-    return a * b
+
+ function multiply (a, b) {
+ 
+     return a * b
+    
 }
 
 ## Key skills:
@@ -29,3 +30,10 @@ function multiply(a, b) {
 - using markdown markup;
 - basic layout skills;
 - using rs app to submit and check tasks.
+
+## Skills and Proficiency:
+- HTML5, CSS3;
+- JavaScript Basics;
+- Git, GitHub;
+- VS Code;
+- Figma, Adobe Photoshop, Illustrator.
